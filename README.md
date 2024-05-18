@@ -1,4 +1,4 @@
-# CS 4641 Group 41 Project - Magnificent Music 
+# Magnificent Music Project
 
 ## Project Final Report
 
